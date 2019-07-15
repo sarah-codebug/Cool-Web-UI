@@ -4,6 +4,7 @@ Cool Web UI Additions using HTML, CSS, and JS
 
 ### Cool Font Effects
 1. [Google fonts](https://fonts.google.com/)
+1. [Funny Text](https://github.com/alvarotrigo/funnyText.js)
 1. [Opening letters](https://tympanus.net/Tutorials/AnimatedOpeningType/)
 
 ### Typing Effects
