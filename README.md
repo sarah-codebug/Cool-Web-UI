@@ -14,3 +14,7 @@ Cool Web UI Additions using HTML, CSS, and JS
 
 ### Rating Scale
 1. [Emoji Rating](https://codepen.io/bennettfeely/pen/EKrENG)
+
+
+### Cool Backgrounds
+1. [Particle Background](https://bashooka.com/coding/jquery-plugins-for-animating-background/)
