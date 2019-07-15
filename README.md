@@ -18,5 +18,5 @@ Cool Web UI Additions using HTML, CSS, and JS
 
 
 ### Background Effects
-1. [Particle Background](https://bashooka.com/coding/jquery-plugins-for-animating-background/)
+1. [Particle Background](http://jnicol.github.io/particleground/)
 1. [Trianglify](http://qrohlf.com/trianglify/)
