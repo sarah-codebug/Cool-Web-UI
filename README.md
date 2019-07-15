@@ -7,3 +7,6 @@ Cool Web UI Additions using HTML, CSS, and JS
 1. [Finish the sentence typing](https://codepen.io/Coding_Journey/pen/BEMgbX?&page=1)
 1. [Typing styled like the terminal](https://codepen.io/samarkandiy/pen/nyLsx)
 
+
+### Rating Scale
+1. [Emoji Rating](https://codepen.io/bennettfeely/pen/EKrENG)
