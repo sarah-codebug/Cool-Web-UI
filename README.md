@@ -2,7 +2,7 @@
 Cool Web UI Additions using HTML, CSS, and JS
 
 
-### Cool Font Effects
+### Font Effects
 1. [Google fonts](https://fonts.google.com/)
 1. [Funny Text](https://github.com/alvarotrigo/funnyText.js)
 1. [Opening letters](https://tympanus.net/Tutorials/AnimatedOpeningType/)
@@ -17,5 +17,6 @@ Cool Web UI Additions using HTML, CSS, and JS
 1. [Emoji Rating](https://codepen.io/bennettfeely/pen/EKrENG)
 
 
-### Cool Backgrounds
+### Background Effects
 1. [Particle Background](https://bashooka.com/coding/jquery-plugins-for-animating-background/)
+1. [Trianglify](https://github.com/qrohlf/trianglify)
